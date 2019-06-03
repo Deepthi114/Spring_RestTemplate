@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.websystique.springboot</groupId>
-	<artifactId>SpringBootRestClient2</artifactId>
+	<artifactId>SpringBootRestClient</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>SpringBootRestClient2</name>
+	<name>SpringBootRestClient</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
